@@ -17,7 +17,7 @@
 6.    REPO OWNERS AND ADMINS
 
 ###  SETUP ###
-* Clone the repo at [TEXT ANALYTICS-NAIVE_BAYES] (https://github.com/rahulr56/TextAnalytics-NaiveBayes)
+* Clone the repo at [TEXT ANALYTICS-NAIVE_BAYES](https://github.com/rahulr56/TextAnalytics-NaiveBayes)
 * Navigate to build directory and run build.sh
 
 ### MINIMUM SYSTEM REQUIREMENTS ###
